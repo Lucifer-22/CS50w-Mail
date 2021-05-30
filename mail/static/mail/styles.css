@@ -1,0 +1,15 @@
+textarea {
+    min-height: 400px;
+}
+.items {
+    cursor: pointer;
+}
+  
+.read {
+    background-color: #e6e6e6;
+}
+
+svg , p{
+    cursor: pointer;
+    float: right;
+}
